@@ -13,7 +13,7 @@
   "license": "ISC",
   "dependencies": {
     "babel-polyfill": "^6.1.19",
-    "ejs": "^2.3.4",
+    "ejs": "^3.1.7",
     "express": "^4.13.3",
     "flux": "^2.1.1",
     "history": "^1.13.1",
@@ -22,7 +22,7 @@
     "react-dom": "^0.14.2",
     "react-router": "^1.0.0",
     "redux": "^3.0.5",
-    "superagent": "^1.5.0"
+    "superagent": "^3.8.1"
   },
   "devDependencies": {
     "babel-core": "^6.1.21",
