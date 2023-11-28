@@ -12,7 +12,7 @@
   "license": "ISC",
   "dependencies": {
     "babel-polyfill": "^6.1.19",
-    "flux": "^2.1.1",
+    "flux": "^4.0.1",
     "react": "^0.14.2",
     "react-dom": "^0.14.2"
   },
