@@ -13,7 +13,7 @@
   "dependencies": {
     "babel-polyfill": "^6.1.19",
     "flux": "^2.1.1",
-    "react": "^0.14.2",
+    "react": "^15.0.0",
     "react-dom": "^0.14.2"
   },
   "devDependencies": {
